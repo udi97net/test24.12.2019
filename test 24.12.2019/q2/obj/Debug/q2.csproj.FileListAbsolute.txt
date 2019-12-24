@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\test 24.12.2019\q2\bin\Debug\q2.exe.config
+C:\Users\Dell\source\repos\test 24.12.2019\q2\bin\Debug\q2.exe
+C:\Users\Dell\source\repos\test 24.12.2019\q2\bin\Debug\q2.pdb
+C:\Users\Dell\source\repos\test 24.12.2019\q2\obj\Debug\q2.exe
+C:\Users\Dell\source\repos\test 24.12.2019\q2\obj\Debug\q2.pdb
+C:\Users\Dell\source\repos\test 24.12.2019\q2\obj\Debug\q2.csprojAssemblyReference.cache

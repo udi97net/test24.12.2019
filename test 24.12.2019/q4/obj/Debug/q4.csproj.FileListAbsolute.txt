@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\test 24.12.2019\q4\bin\Debug\q4.exe.config
+C:\Users\Dell\source\repos\test 24.12.2019\q4\bin\Debug\q4.exe
+C:\Users\Dell\source\repos\test 24.12.2019\q4\bin\Debug\q4.pdb
+C:\Users\Dell\source\repos\test 24.12.2019\q4\obj\Debug\q4.exe
+C:\Users\Dell\source\repos\test 24.12.2019\q4\obj\Debug\q4.pdb
